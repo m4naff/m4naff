@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal project building a parkinglot app<br>👯 I’m looking to collaborate on which we can make perfect apps together<br>🤝 I’m looking for help with people who can help me to get into advanced topics<br>🌱 I’m currently learning spring boot advanced topics<br>💬 Ask me about the problems you see in my projects so we can together get forward<br>⚡ Fun fact backend is not the only thing i learn i also learn cybersecurity and frontend
+🔭 I’m currently working on personal project building a bookdelivery app<br>👯 I’m looking to collaborate on which we can make perfect apps together<br>🤝 I’m looking for help with people who can help me to get into advanced topics<br>🌱 I’m currently learning spring boot advanced topics<br>💬 Ask me about the problems you see in my projects so we can together get forward<br>⚡ Fun fact backend is not the only thing i learn i also learn cybersecurity and frontend
 
 
 ## 🌐 Socials:
